@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709911598 source:e:\c++ projects\c++ code block\helloworld\quicksort\main.cpp
+	<bits/stdc++.h>
+	<chrono>
+	<ctime>
+
