@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705425243 source:e:\c++ projects\c++ code block\helloworld\testing\main.cpp
+	<iostream>
+
+1705425234 source:e:\c++ projects\c++ code block\helloworld\testing\test1.cpp
+	<bits/stdc++.h>
+
