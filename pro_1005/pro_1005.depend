@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699235427 source:e:\c++ projects\c++ code block\helloworld\pro_1005\main.cpp
+	<iomanip>
+	<iostream>
+	<stdio.h>
+
